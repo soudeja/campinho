@@ -1,5 +1,7 @@
 # Jade Fidelis
-ˋMinha comida favorita é lasanhaˋ
+Minha comida favorita é lasanha
+
+<img src="https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/vegetables-&-vegetable-dishes/lasanha-the-vegetarian-butcher/main-header.jpg" width="300"
 ***
 Uma curiosidade sobre mim é que gosto de produção musical
 
